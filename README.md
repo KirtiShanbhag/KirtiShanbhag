@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+Hi I am Kirti Shanbhag.
+I am a graduating student from SJSU. #GoSpartans
 <!--
 **KirtiShanbhag/KirtiShanbhag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
