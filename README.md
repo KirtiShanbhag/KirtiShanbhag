@@ -4,6 +4,7 @@
 Hi I am Kirti Shanbhag. 
 Computer Engineering Graduate Student, passionate about mathematical modeling, problem-solving and coding, seeking full-time opportunities starting January 2022. #GoSpartans
 
+Tableau Link: https://public.tableau.com/app/profile/kirti8641
 
 ## 🚀 Terralogic, Software Development Intern                                                                                                     July 2021 - Aug. 2021
 
